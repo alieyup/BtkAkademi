@@ -23729,6 +23729,11 @@
       "FilePath": "c:\\Users\\ab129050\\source\\repos\\alieyup\\BtkMvc\\BtkAkademi\\Views\\Course\\Apply.cshtml",
       "TargetPath": "Views\\Course\\Apply.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ab129050\\source\\repos\\alieyup\\BtkMvc\\BtkAkademi\\Views\\Course\\Feedback.cshtml",
+      "TargetPath": "Views\\Course\\Feedback.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
